@@ -1,0 +1,4 @@
+*.p
+/.ipynb_checkpoints/
+*.pyc
+*.mp4
